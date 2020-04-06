@@ -9,3 +9,5 @@ https://eater.net/8bit/clock
 
 At the Arduino part I use the Libary "FreqCounter" created by Martin Nawrath, KHM Lab3
 
+For the Display I use an 128x64 OLED with I2C interface.
+
